@@ -1,2 +1,2 @@
-# cexmos
+# CEXMOS
  Centralized Exchange For Cosmos
